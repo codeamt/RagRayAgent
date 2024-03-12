@@ -110,8 +110,14 @@ b'"{\\"question\\": \\"What is the default batch size for map_batches?\\", \\"so
 ```
 
 ## TODO
-* Spot Instance Provisioning Automation
+* Spot Instance/Fleet Provisioning for Cost Effective Training
+* CUDA devcontainer configurations
+* Dockerfiles
 * Terraform Configuration for 3-Tier Cloud Deployment
+* linting, testing
+* Github Push/Pull Actions + CI/CD Building
+* Intergrating Other DB Backends
+* Quantization
 
 
 # References
