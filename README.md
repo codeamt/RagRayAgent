@@ -1,4 +1,4 @@
-# Rag Agent with Ray
+# RagRayAgent
 
 
 # Overview
